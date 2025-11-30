@@ -13,7 +13,7 @@ When trying to redeem one or more rewards, the application add 2 extra points fo
 
 1. Make sure to reset your points by clicking on `forfeit all points`
 2. Redeem one reward to update values (e.g. Tote Bag of Holding 2.75pts)
-3. Notice the difference between what is expected, from what the application display to the final user
+3. Notice the difference between what is expected (2.75pts), from what the application display to the final user (4.75pts)
 
 **QA Perspective:**<br>
 Knowing that this is one of the most important product features, this defect has a high severity beacause it may result in our final user not being able to redeem all rewards that they should, causing a bad experience and a lack of trust in our product.
@@ -68,10 +68,10 @@ When accessing the `Sign In` page there's two `Forgot your password?` option dis
 **QA Perspective:**<br>
 This defect have a low severity since both options work as expected, it's just necessary to remove one of them. I suggest the one close to `Sign In` button, since it's probably the one who can cause some missclicks
 
-### DJNGC_006: The `About` menu option, don't redirect the user properly
+### DJNGC_006: `About` menu option throws user to an error
 
 **Description:**<br>
-When trying to access the `About` option, the application leads the user to an error
+When trying to access the `About` option, the application leads the user to a page that doesn't exist
 
 1. Access system `Home`
 2. At the menu on top, click `About` option
