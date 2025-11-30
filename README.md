@@ -54,10 +54,10 @@ playwright install
 
 ### 5. Verify Application status (double check)
 
-Before running tests, ensure the holistiplan application is running:
+Before running tests, ensure the application is running:
 
 1. Open your browser and navigate to `http://localhost:3000`
-2. You should see the holistiplan homepage
+2. You should see the DjangoCon rewards page
 3. If not, follow the instructions again at [qa_homework repository](https://github.com/ocrfin/qa_homework/)
 
 ### 6. Run the Tests
