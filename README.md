@@ -5,17 +5,19 @@
 >Make sure you have initialized the application by following the execution steps at: `https://github.com/ocrfin/qa_homework/`.<br>
 >The holistiplan app must be running at `http://localhost:3000`
 
-## Root Directory
+## Directory Guide
 
 ```
 qa_eng_task/
-├── pages/              # Page Object Model classes
-├── tests/              # Test suites
-├── documentation/      # Testing documentation
-├── conftest.py         # Pytest configuration
-├── requirements.txt    # Python dependencies
-├── README.md           # Project overview
-└── .gitignore         # Git ignore rules
+├── pages/                  # Page Object Model classes
+├── tests/                  # Test suites
+├── documentation/          # Testing documentation
+    ├──── manual_testing.md # Manual testing report
+    ├ automation_testing.md # Automation testing report
+├── conftest.py             # Pytest configuration
+├── requirements.txt        # Python dependencies
+├── README.md               # Project overview
+└── .gitignore              # Git ignore rules
 ```
 
 ## Setup Guide
