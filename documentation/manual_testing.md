@@ -4,7 +4,6 @@
 
 > To avoid repeat this step in every bug report, make sure the application is running at `http://localhost:3000/.`<br>
 > You can check on how to initialize the application by following the execution steps at this repo: `https://github.com/ocrfin/qa_homework/.`<br>
-> Environment: Windows 11 Home / Chrome 142
 
 ### DJNGC_001: `Points Redeemed` & `Point remaining` counter not behaving as expected
 
