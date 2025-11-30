@@ -1,8 +1,8 @@
-# DjangoCon(DJNGC): Homework from Holistiplan
+# DjangoCon(DJNGC): Holistiplan Assessment
 
 ## Disclaimer
 
->Make sure you have initialized the application by following the execution steps at: `https://github.com/ocrfin/qa_homework/.`<br>
+>Make sure you have initialized the application by following the execution steps at: `https://github.com/ocrfin/qa_homework/`.<br>
 >The holistiplan app must be running at `http://localhost:3000`
 
 
