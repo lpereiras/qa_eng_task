@@ -3,7 +3,8 @@
 ## Disclaimer
 
 Make sure you have initialized the application by following the execution steps at: `https://github.com/ocrfin/qa_homework/.`<br>
-You may face some trouble while running all tests or debugging with `PWDEBUG=1` option, that will probably came from `node` container. Log output error example:
+You may face some trouble while running all tests or debugging with `PWDEBUG=1` option, that will probably came from `node` container.<br>
+Output error example:
 ```bash
 node        | Proxy error: socket hang up
 django      |  * Restarting with watchdog (inotify)
@@ -12,7 +13,7 @@ node        | <e> [webpack-dev-server] [HPM] Error occurred while proxying reque
 >In this case, rerun the tests with `pytest --lf` to see their execution. 
 
 ### TC-001: Sign Up successfully
-  Given a user wants to Sign up for our system  
+  Given a user wants to Sign up in our system  
   When they fill in the required fields with valid credentials  
   Then click at `Sign Up >>` button  
   Then the application should redirect user to `localhost:3000/accounts/confirm-email/`
