@@ -12,7 +12,7 @@ When trying to redeem one or more rewards, the application add 2 extra points fo
 
 1. Make sure to reset your points by clicking on `forfeit all points`
 2. Redeem one reward to update values (e.g. Tote Bag of Holding 2.75pts)
-3. Notice the difference between what is expected (2.75pts), from what the application display to the final user (4.75pts)
+3. Notice the difference between what is expected (2.75pts), from what the application display to the final user (4.75pts/-4.75pts)
 
 **QA Perspective:**<br>
 Knowing that this is one of the most important product features, this defect has a high severity beacause it may result in our final user not being able to redeem all rewards that they should, causing a bad experience and a lack of trust in our product.
