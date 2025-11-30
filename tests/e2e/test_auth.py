@@ -8,7 +8,7 @@ from pages.page_menu import MenuPage
 from playwright.sync_api import Page, expect
 
 # TC-001: Sign Up successfully
-def test_signup_with_valid_credentials(page: Page):
+def test_sign_up_with_valid_credentials(page: Page):
   user_email = f"testqa_{uuid.uuid4()}@holistiplan.com.br"
   user_pwd = "test_pwd12345*"
   
