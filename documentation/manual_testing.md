@@ -78,4 +78,4 @@ When trying to access the `About` option, the application leads the user to an e
 3. Notice that the application will redirect the user for a Page not found (404) error
 
 **QA Perspective:**<br>
-Considering content isn't ready yet to be in production, it should be a better approach to hide this menu option and just deliver the feature when it's properly ready
+Considering the content isn't ready to be in production, it should be a better approach to hide this menu option and just deliver the feature when it's properly ready
